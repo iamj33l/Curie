@@ -23,10 +23,6 @@ The Curie is Java based voice assistant that perform task with you voice command
 
 - **Robust** : I can handle a wide range of Exception that can disrupt the flow of working process of it.
 
-### Working Process:
-
-![Process](Curie/Process.jpg)
-
 ### Quicstart with Curie : the voice Assistant
 
 - 1). *Create a Maven Project.* Here we are providing a very good introductory video about maven and [how to make maven project](https://www.youtube.com/watch?v=bSaBmXFym30)
