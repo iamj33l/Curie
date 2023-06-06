@@ -11,8 +11,8 @@ import java.util.concurrent.Future;
 public class JVoice implements JavaVoice {
 
     //initiating fields
-    private static final String speechKey = "e6afa0303ea0458196a3876eca7cf522";
-    private static final String speechRegion = "centralindia";
+    private static final String speechKey = " "; #enter your api key
+    private static final String speechRegion = " "; #enter your api region
 
     public void speak(String text) {
 
