@@ -137,8 +137,10 @@ The Curie is Java based voice assistant that perform task with you voice command
     </properties>
 </project>
 
-- 3). 
+- 3). *Take your free Student Azure Subscription. Make a Resource in Speech Services to use APIs. You'll get your API key and your API region. Put that in Main,java application as string.
 
+- 4). *Your curie is ready to work.*
 
+#### Hope you Like and Appreaciate our Project
 
-
+# Made with ❤️ by Abhay Gayakwad, [Niraj Parmar](https://github.com/Niraj1608) and [Jeel Patel](https://github.com/iamj33l)
