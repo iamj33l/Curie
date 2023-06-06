@@ -25,7 +25,7 @@ The Curie is Java based voice assistant that perform task with you voice command
 
 ### Working Process:
 
-![Process](Process.jpg)
+![Process](Curie/Process.jpg)
 
 ### Quicstart with Curie : the voice Assistant
 
