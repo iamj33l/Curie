@@ -139,4 +139,4 @@ The Curie is Java based voice assistant that perform task with you voice command
 
 #### Hope you Like and Appreaciate our Project
 
-# Made with ❤️ by Abhay Gayakwad, [Niraj Parmar](https://github.com/Niraj1608) and [Jeel Patel](https://github.com/iamj33l)
+# Made with ❤️ by [Abhay Gayakwad](https://github.com/abhi128125), [Niraj Parmar](https://github.com/Niraj1608) and [Jeel Patel](https://github.com/iamj33l)
